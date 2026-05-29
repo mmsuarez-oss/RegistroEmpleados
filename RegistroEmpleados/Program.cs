@@ -14,6 +14,7 @@ void agregarEmpleado(int pos)
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Registro guardado satisfactoriamente");
     Console.ResetColor();
+}
 
 }
 
